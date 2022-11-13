@@ -14,7 +14,7 @@ def app():
         'max':0.05,
         'palette':[
             "black",
-            "blue,
+            "blue",
             "purple",
             "cyan",
             "green",
